@@ -17,8 +17,8 @@ An integration with Webex Teams can provide realtime information for company sec
 
 Our solution will leverage the following Cisco technologies
 
-* [Meraki Cameras](http://cisco.com/go/aci)
-* [Webex Teams](http://cisco.com/go/dna)
+* [Meraki Cameras](https://developer.cisco.com/meraki/mv-sense/#!overview/camera-apis-breakdown)
+* [Webex Teams](https://developer.webex.com/docs/api/getting-started)
 
 ### 3rd party software
 
