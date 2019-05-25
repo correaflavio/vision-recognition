@@ -22,7 +22,8 @@ Our solution will leverage the following Cisco technologies
 
 ### 3rd party software
 
-* Amazon Rekognition
+* [Amazon Rekognition](https://aws.amazon.com/rekognition/?n=sn&p=sm)
+
 
 ## Team Members
 
