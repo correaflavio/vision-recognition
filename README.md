@@ -20,9 +20,6 @@ Our solution will leverage the following Cisco technologies
 * [Meraki Cameras](http://cisco.com/go/aci)
 * [Webex Teams](http://cisco.com/go/dna)
 
-* Meraki Cameras
-* Webex Teams
-
 ### 3rd party software
 
 * Amazon Rekognition
